@@ -1,0 +1,20 @@
+gerenciador-estoque-springboot
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── thaislotti
+│   │   │           └── estoque
+│   │   │               ├── EstoqueApplication.java
+│   │   │               ├── controller
+│   │   │               │   └── ProdutoController.java
+│   │   │               ├── model
+│   │   │               │   └── Produto.java
+│   │   │               └── repository
+│   │   │                   └── ProdutoRepository.java
+│   │   └── resources
+│   │       ├── application.properties
+│   │       └── templates
+│   └── test
+├── pom.xml
+└── README.md
